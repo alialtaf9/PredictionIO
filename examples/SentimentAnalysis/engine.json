@@ -1,0 +1,7 @@
+
+{
+  "id": "SentimentAnalysis",
+  "version": "0.0.1-SNAPSHOT",
+  "name": "SentimentAnalysis",
+  "engineFactory": "io.prediction.examples.java.SentimentAnalysis.EngineFactory"
+}
